@@ -1,0 +1,15 @@
+node_modules
+.next
+.git
+.github
+.vscode
+.env.local
+.env
+Dockerfile
+.dockerignore
+README.md
+*.zip
+qualitydealings_source.zip
+firebase.json
+.firebaserc
+package-lock.json
